@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526208670960",
+    "project_id": "mafiagame-mf",
+    "storage_bucket": "mafiagame-mf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526208670960:android:db412be061c5eb1abff635",
+        "android_client_info": {
+          "package_name": "com.example.mafia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlCmDcvNitVtIjFj1Wnp91hcB2UAWVsGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
